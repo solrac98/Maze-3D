@@ -1,2 +1,2 @@
-# Maze-3D
+# maze escape
  
